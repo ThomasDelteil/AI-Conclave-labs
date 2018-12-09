@@ -1,0 +1,9 @@
+[submodule "04-Amazon-Sagemaker-1P-algorithms/amazon-sagemaker-examples"]
+	path = 04-Amazon-Sagemaker-1P-algorithms/amazon-sagemaker-examples
+	url = https://github.com/awslabs/amazon-sagemaker-examples
+[submodule "06-gluon-crash-course/DeepLearningWithMXNetGluon"]
+	path = 06-gluon-crash-course/DeepLearningWithMXNetGluon
+	url = https://github.com/ThomasDelteil/DeepLearningWithMXNetGluon
+[submodule "16-optimizing-performance/PerformanceTricksMXNetGluon"]
+	path = 16-optimizing-performance/PerformanceTricksMXNetGluon
+	url = https://github.com/ThomasDelteil/PerformanceTricksMXNetGluon
