@@ -1,3 +1,8 @@
+Usage:
+
+`git clone --recurse-submodules https://github.com/ThomasDelteil/AI-Conclave-labs`
+
+
 # AI-Conclave-labs
 
 Repo for labs resources for AI Conclave labs
