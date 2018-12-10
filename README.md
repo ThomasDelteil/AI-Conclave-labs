@@ -14,7 +14,7 @@ Repo for labs resources for AI Conclave labs
 |---------------------------------------------------|--------|-----------|
 | 01 - Deep Learning fundamentals | 80 | Thomas |
 | Break | 15 |  |
-| 01 - Introduction to Amazon SageMaker (setup NB instance) | 45 | Soji |
+| 02 - Introduction to Amazon SageMaker (setup NB instance) | 30 | Soji |
 | 03 - [Amazon SageMaker Python SDK](https://github.com/awslabs/amazon-sagemaker-examples/sagemaker-python-sdk) | 45 | Soji |
 | Break | 10 |  |
 | 04 - Introduction to [Amazon built-in algorithms](https://github.com/awslabs/amazon-sagemaker-examples) Image Classification | 60 | Thomas |
